@@ -8,6 +8,7 @@ jobs:
         runs-on: ubuntu-24.04
         steps:
             - run: print("Job 1 | Step 1")
+              shell: python
             - run: print("Job 1 | Step 2")
               shell: python
 
