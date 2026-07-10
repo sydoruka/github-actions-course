@@ -1,5 +1,7 @@
 # DevOps Directive GitHub Actions Course
 
+123
+
 This is the companion repo to: [GitHub Actions: Beginner to Pro](https://courses.devopsdirective.com/github-actions-beginner-to-pro)
 
 [![](./readme-assets/thumbnail-yt.png)](https://youtu.be/Xwpi0ITkL3U)
