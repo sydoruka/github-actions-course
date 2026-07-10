@@ -9,3 +9,9 @@ jobs:
         steps:
             - run: print("Hello World from an inline python script in a GitHub Action Workflow!")
               shell: python
+
+    print-with-echo:
+        runs-on: ubuntu-24.04
+        steps:
+            - run: echo "This is the second action"
+        needs: print-hello-world
